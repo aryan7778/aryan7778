@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Aryan,studying Computer Science and Engineering.
+Open-Source,Android,Flutter,Web,Competitive Programming.
+
+###How to reach me
+- Twitter:  [!aryan7778](https://twitter.com/aryan_gautam26)
+- LinkedIn: [!Aryan Gautam](https://www.linkedin.com/in/aryan-gautam/)
+- Personal Website: [!https://aryan7778.github.io/](https://aryan7778.github.io/)
