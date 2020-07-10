@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Aryan,studying Computer Science and Engineering.
+I'm Aryan,studying Computer Science and Engineering.</br>
 Open-Source,Android,Flutter,Web,Competitive Programming.
 
 ### How to reach me
