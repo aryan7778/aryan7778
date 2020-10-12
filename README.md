@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I'm Aryan,studying Computer Science and Engineering.</br>
-Open-Source,Android,Flutter,Web,Competitive Programming.
 
 
 <br />
