@@ -2,11 +2,6 @@
 
 <!--
 **aryan7778/aryan7778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<br />
-<br />
-
-
-  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 Here are some ideas to get you started:
 
@@ -22,6 +17,12 @@ Here are some ideas to get you started:
 
 I'm Aryan,studying Computer Science and Engineering.</br>
 Open-Source,Android,Flutter,Web,Competitive Programming.
+
+
+<br />
+<br />
+
+   <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ### How to reach me
 - Twitter:  [aryan7778](https://twitter.com/aryan_gautam26)
