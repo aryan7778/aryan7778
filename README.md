@@ -42,3 +42,4 @@ I'm Aryan,studying Computer Science and Engineering.</br>
 
 
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan7778&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/aryan7778)
+<img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan7778&count_private=true&theme=tokyonight&line_height=5">
