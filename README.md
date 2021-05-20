@@ -25,7 +25,7 @@ I'm Aryan,studying Computer Science and Engineering.</br>
 ### How to reach me
 - Twitter:  [aryan7778](https://twitter.com/aryan_gautam26)
 - LinkedIn: [Aryan Gautam](https://www.linkedin.com/in/aryan-gautam/)
-- Personal Website: [https://aryan7778.github.io/](https://aryan7778.github.io/)
+- Personal Website: [http://aryangautam.me/](aryangautam.me)
 
 **Languages and Tools:**  
 
