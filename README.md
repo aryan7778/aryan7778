@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Aryan,studying Computer Science and Engineering.</br>
+Welcome to my GitHub profile, I am **Aryan Gautam** and I am an enthusiastic consumer of knowledge, deeply motivated to apply my skills in the real-life projects which can impact people.🤩✌️
+
 
 
 <br />
