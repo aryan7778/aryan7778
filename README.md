@@ -50,7 +50,7 @@ Welcome to my GitHub profile, I am **Aryan Gautam** and I am an enthusiastic con
 
 <br/>
 
-[![Aryan Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan7778)
+![Aryan Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan7778)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan7778)](https://github.com/aryan7778/github-readme-stats)
 
 <br/>
@@ -62,7 +62,7 @@ Welcome to my GitHub profile, I am **Aryan Gautam** and I am an enthusiastic con
   <img src='https://github.com/aryan7778/github-stats-transparent/blob/output/generated/languages.svg'>
 </p>
 -->
-<br />
+
 
 <h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
 <p align='center'>
