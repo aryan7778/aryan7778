@@ -44,18 +44,24 @@ Welcome to my GitHub profile, I am **Aryan Gautam** and I am an enthusiastic con
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<!--
-[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan7778&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/aryan7778)
-<img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan7778&count_private=true&theme=tokyonight&line_height=5">
--->
-<br />
+<br/>
 
+<h3 align='center'>GitHub Stats&nbsp;&nbsp;📊</h3>
+
+<br/>
+
+[![Aryan Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan7778)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan7778)](https://github.com/aryan7778/github-readme-stats)
+
+<br/>
+
+<!--
 <h3 align='center'>GitHub Stats&nbsp;&nbsp;📊</h3>
 <p align='center'>
   <img src='https://github.com/aryan7778/github-stats-transparent/blob/output/generated/overview.svg'>
   <img src='https://github.com/aryan7778/github-stats-transparent/blob/output/generated/languages.svg'>
 </p>
-
+-->
 <br />
 
 <h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
