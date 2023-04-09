@@ -26,7 +26,7 @@ Welcome to my GitHub profile, I am **Aryan Gautam** and I am an enthusiastic con
 ### How to reach me
 - Twitter:  [aryan7778](https://twitter.com/aryan_gautam26)
 - LinkedIn: [Aryan Gautam](https://www.linkedin.com/in/aryan-gautam/)
-- Personal Website: [Personal Website](https://aryan7778.github.io/)
+- Personal Website: [aryan7778.github.io/](https://aryan7778.github.io/)
 
 **Languages and Tools:**  
 
