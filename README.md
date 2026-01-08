@@ -45,7 +45,7 @@ Welcome to my GitHub profile, I am **Aryan Gautam** and I am an enthusiastic con
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br/>
-
+<!--
 <h3 align='center'>GitHub Stats&nbsp;&nbsp;📊</h3>
 
 <br/>
@@ -54,7 +54,7 @@ Welcome to my GitHub profile, I am **Aryan Gautam** and I am an enthusiastic con
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan7778)](https://github.com/aryan7778/github-readme-stats)
 
 <br/>
-
+-->
 <!--
 <h3 align='center'>GitHub Stats&nbsp;&nbsp;📊</h3>
 <p align='center'>
